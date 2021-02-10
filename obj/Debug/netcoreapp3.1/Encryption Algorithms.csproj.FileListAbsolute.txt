@@ -1,0 +1,15 @@
+C:\Users\SELCUK\source\repos\Encryption Algorithms\bin\Debug\netcoreapp3.1\Encryption Algorithms.exe
+C:\Users\SELCUK\source\repos\Encryption Algorithms\bin\Debug\netcoreapp3.1\Encryption Algorithms.deps.json
+C:\Users\SELCUK\source\repos\Encryption Algorithms\bin\Debug\netcoreapp3.1\Encryption Algorithms.runtimeconfig.json
+C:\Users\SELCUK\source\repos\Encryption Algorithms\bin\Debug\netcoreapp3.1\Encryption Algorithms.runtimeconfig.dev.json
+C:\Users\SELCUK\source\repos\Encryption Algorithms\bin\Debug\netcoreapp3.1\Encryption Algorithms.dll
+C:\Users\SELCUK\source\repos\Encryption Algorithms\bin\Debug\netcoreapp3.1\Encryption Algorithms.pdb
+C:\Users\SELCUK\source\repos\Encryption Algorithms\obj\Debug\netcoreapp3.1\Encryption Algorithms.csprojAssemblyReference.cache
+C:\Users\SELCUK\source\repos\Encryption Algorithms\obj\Debug\netcoreapp3.1\Encryption_Algorithms.Form1.resources
+C:\Users\SELCUK\source\repos\Encryption Algorithms\obj\Debug\netcoreapp3.1\Encryption Algorithms.csproj.GenerateResource.cache
+C:\Users\SELCUK\source\repos\Encryption Algorithms\obj\Debug\netcoreapp3.1\Encryption Algorithms.AssemblyInfoInputs.cache
+C:\Users\SELCUK\source\repos\Encryption Algorithms\obj\Debug\netcoreapp3.1\Encryption Algorithms.AssemblyInfo.cs
+C:\Users\SELCUK\source\repos\Encryption Algorithms\obj\Debug\netcoreapp3.1\Encryption Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\SELCUK\source\repos\Encryption Algorithms\obj\Debug\netcoreapp3.1\Encryption Algorithms.dll
+C:\Users\SELCUK\source\repos\Encryption Algorithms\obj\Debug\netcoreapp3.1\Encryption Algorithms.pdb
+C:\Users\SELCUK\source\repos\Encryption Algorithms\obj\Debug\netcoreapp3.1\Encryption Algorithms.genruntimeconfig.cache
